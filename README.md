@@ -4,6 +4,8 @@ The complete Ballista Duel Prototype. Repo for UWB CSS497 Capstone Multiplayer A
 The application is built inside ASL with latest commit of 06/07/19. The ARCore API key can be found in CRCS folder. All ballista duel related files is in BallistaPackage
 folder. 
 
+Demo can be seen at https://www.youtube.com/watch?v=ZflAjJEdeyQ
+
 To install the app, download or clone the whole repository.
 Use unity version 2018.3 to open from the ASL folder.
 
